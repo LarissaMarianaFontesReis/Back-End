@@ -1,0 +1,14 @@
+C:\Larin\Faculdade\BackEnd\TDE01\bin\Debug\net9.0\TDE01.exe
+C:\Larin\Faculdade\BackEnd\TDE01\bin\Debug\net9.0\TDE01.deps.json
+C:\Larin\Faculdade\BackEnd\TDE01\bin\Debug\net9.0\TDE01.runtimeconfig.json
+C:\Larin\Faculdade\BackEnd\TDE01\bin\Debug\net9.0\TDE01.dll
+C:\Larin\Faculdade\BackEnd\TDE01\bin\Debug\net9.0\TDE01.pdb
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\TDE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\TDE01.AssemblyInfoInputs.cache
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\TDE01.AssemblyInfo.cs
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\TDE01.csproj.CoreCompileInputs.cache
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\TDE01.dll
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\refint\TDE01.dll
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\TDE01.pdb
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\TDE01.genruntimeconfig.cache
+C:\Larin\Faculdade\BackEnd\TDE01\obj\Debug\net9.0\ref\TDE01.dll
