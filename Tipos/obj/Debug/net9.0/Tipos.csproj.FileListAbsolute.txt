@@ -1,0 +1,15 @@
+C:\Larin\Faculdade\Back-End\Tipos\bin\Debug\net9.0\Tipos.exe
+C:\Larin\Faculdade\Back-End\Tipos\bin\Debug\net9.0\Tipos.deps.json
+C:\Larin\Faculdade\Back-End\Tipos\bin\Debug\net9.0\Tipos.runtimeconfig.json
+C:\Larin\Faculdade\Back-End\Tipos\bin\Debug\net9.0\Tipos.dll
+C:\Larin\Faculdade\Back-End\Tipos\bin\Debug\net9.0\Tipos.pdb
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.AssemblyInfoInputs.cache
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.AssemblyInfo.cs
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.csproj.CoreCompileInputs.cache
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.sourcelink.json
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.dll
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\refint\Tipos.dll
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.pdb
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\Tipos.genruntimeconfig.cache
+C:\Larin\Faculdade\Back-End\Tipos\obj\Debug\net9.0\ref\Tipos.dll
